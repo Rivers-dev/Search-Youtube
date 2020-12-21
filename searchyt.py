@@ -1,3 +1,4 @@
+#Written by @Rivers-dev on github
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import sys
